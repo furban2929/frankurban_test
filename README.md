@@ -6,3 +6,6 @@ A test repository to learn git and github
 - create a remote repo on github
 - practice git
 - 
+## Authors
+
+- Frank Urban
