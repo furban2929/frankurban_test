@@ -1,4 +1,4 @@
-# frankurban_test
+# frankurban_test- Franks first edits
 A test repository to learn git and github
 
 ## Purpose
