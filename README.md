@@ -1,4 +1,4 @@
-# frankurban_test
+# frankurban_test: maggie's edit
 A test repository to learn git and github
 
 ## Purpose
