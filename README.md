@@ -12,3 +12,4 @@
 ## Authors
 
 - Frank Urban
+- Maggie
